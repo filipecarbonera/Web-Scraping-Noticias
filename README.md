@@ -1,7 +1,7 @@
-# Projetos de Web Scraping:
+# Web Scraping - Notícias
 
-Aqui irei atualizar com os projetos de web scraping que vou desenvolver com o tempo.
+Neste projeto, realizo o web scraping de noticias do site G1 para compreender cada etapa macro do processo de scraping.
 
-Via de regra, apenas não se encontra aqui meu primeiro projeto na área, ao qual tem um repositório explosivo, que pode ser [acessado aqui](https://github.com/filipecarbonera/primeiro_web_scraping).
+Agradeço a Walisson Silva pelo rico conteúdo sobre Web Scraping.
 
-Meu próximo "alvo" será o site [TripAdvisor](https://www.tripadvisor.com.br/Attractions-g303546-Activities-a_allAttractions.true-Porto_Alegre_State_of_Rio_Grande_do_Sul.html).
+[Acesse aqui](https://www.youtube.com/playlist?list=PLg3ZPsW_sghSkRacynznQeEs-vminyTQk) a playlist do Youtube que usei como base para esse estudo.
